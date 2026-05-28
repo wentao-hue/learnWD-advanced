@@ -1,0 +1,26 @@
+# ── 数据集（体积过大，不纳入版本控制） ──
+datasets/
+
+# ── Python 缓存 ──
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# ── 实验输出日志 ──
+*.log
+run_all_output.log
+
+# ── 虚拟环境 ──
+.venv/
+venv/
+env/
+
+# ── macOS ──
+.DS_Store
+
+# ── IDE ──
+.idea/
+.vscode/
+*.swp
